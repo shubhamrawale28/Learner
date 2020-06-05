@@ -1,2 +1,2 @@
 # Learner
-An online learning website mockup build using html with materialize css.
+An online learning website mockup build using HTML and MATERIALIZE CSS.
